@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
-import vid from "./assets/pexels-nothing-ahead-10505868.mp4";
-import Cards from "./home/cards/Cards.jsx";
+import vid from "../assets/pexels-nothing-ahead-10505868.mp4";
+import Cards from "./cards/Cards.jsx";
+import "./home.css";
 
 const Home = () => {
 	return (

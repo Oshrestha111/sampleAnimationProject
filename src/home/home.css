@@ -1,0 +1,10 @@
+.vid-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.vid {
+	width: 900px;
+	height: auto;
+	border-radius: 15px;
+}

@@ -1,0 +1,21 @@
+nav {
+	font-family: "Fredoka", sans-serif;
+	display: flex;
+	justify-content: center;
+	background-color: #39ff14;
+}
+nav > ul {
+	flex-direction: row;
+	list-style: none;
+	text-decoration: none;
+}
+ul > li {
+	display: inline;
+	margin-left: 20px;
+}
+li > a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: 500;
+	font-size: 23px;
+}
