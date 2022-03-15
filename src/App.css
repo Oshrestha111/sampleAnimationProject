@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,300&display=swap");
+
+body {
+	font-family: "Poppins", sans-serif;
+	display: flex;
+	box-sizing: border-box;
+	background-color: #121212;
+	color: #fff;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+	justify-content: center;
+	align-items: center;
+}
+nav {
+	font-family: "Fredoka", sans-serif;
+	display: flex;
+	justify-content: center;
+	background-color: #39ff14;
+}
+nav > ul {
+	flex-direction: row;
+	list-style: none;
+	text-decoration: none;
+}
+ul > li {
+	display: inline;
+	margin-left: 20px;
+}
+li > a {
+	text-decoration: none;
+	color: #fff;
+	font-weight: 500;
+	font-size: 23px;
+}
+.employee a {
+	font-size: 30px;
+}
+.about-bg-img {
+	background: url("https://wallpaperaccess.com/full/2825704.gif");
+	background-attachment: fixed;
+	opacity: 0.75;
+}
+.about-texts {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	text-align: center;
+	padding: 40px 0;
+}
+.about-texts h1 {
+	font-size: 50px;
+}
+.about-texts h2 {
+	font-size: 40px;
+}
+/* footer {
+	/* background-color: rgb(208, 240, 192); 
+} */
+.vid-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.vid {
+	width: 900px;
+	height: auto;
+	border-radius: 15px;
+}
