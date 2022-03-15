@@ -10,7 +10,7 @@ export const cardDetails = [
 		pic: avatar,
 		width: "42%",
 		y: -25,
-		delay: 0.5,
+		delay: 0.4,
 		info: "loremLorem ipsum dolor sit amet consectetur adipisicing elit Deserunt fugiat ullam dignissimos nam, quos, labore totam corrupti harum magnam quidem commodi. Optio tenetur voluptates tempora.",
 	},
 	{
