@@ -12,7 +12,7 @@ class MapEg extends Component {
           height: "30%",
         }}
       >
-        <Marker position={{ lat: 27.717245, lng: 85.323959 }} />
+        <Marker position={{ lat: 27.7172456, lng: 85.323959 }} />
       </Map>
     );
   }
